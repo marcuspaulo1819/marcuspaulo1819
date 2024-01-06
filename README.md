@@ -1,8 +1,8 @@
 ### Olá galera, me chamo Marcus! 👋
 
 
-- Trabalho atualmente com Python no backend.
-- Estudando Vue e Typescript.
+- Trabalho atualmente com Python e Golang no backend.
+- Estudando Typescript e Angular.
 
 
 <div style="display: inline_block"><br>
